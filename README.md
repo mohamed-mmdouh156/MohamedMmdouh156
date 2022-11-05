@@ -6,7 +6,7 @@
 
 <h2> Contact with me on </h2>
 
-- business email : mohamed.mmdouh1506@gmail.com
+- business email : mohamed.mmdouh.dev@gmail.com
 - personal email : mmdouh1112@gmail.com
 
 
