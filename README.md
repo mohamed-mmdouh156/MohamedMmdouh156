@@ -1,5 +1,8 @@
 <h2> Hi there, I'm Mohamed Mmdouh </h2>
 
+
+![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Junior-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Android-Developer-green) ![](https://img.shields.io/badge/Java-Lover-yellowgreen) ![](https://img.shields.io/badge/Exp-1+yrs-red)
+
 - Software Engineer
 - Mobile Application Developer ( Flutter | Android )
 <hr>
