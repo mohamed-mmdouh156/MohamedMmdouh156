@@ -42,14 +42,22 @@ and Packages of domestic labors that suits your needs through the application ea
  
 <hr>
 
-### Talaqi
-Talaqi is application of a Saudi company in the field of advertising and the latest news in the media, agreements and companies.
-<p><a href="https://play.google.com/store/apps/details?id=com.convergence.convergence" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
- 
- <hr>
- 
  ### Gas Plus
 Order from Gas Plus Looking for the quickest GAS Tools delivery, That’s easy with our Gas Plus app.
 <p><a href="https://play.google.com/store/apps/details?id=com.gas.gas" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/app/gas-plus/id1662697146" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
 <hr>
+
+### Talaqi
+Talaqi is application of a Saudi company in the field of advertising and the latest news in the media, agreements and companies.
+<p><a href="https://play.google.com/store/apps/details?id=com.convergence.convergence" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+ 
+<hr>
+
+### Bosala - بوصلة
+The first application of its kind for environmentally friendly or recycled projects, services and products launched by the environmental Bosala team
+
+<p><a href="https://play.google.com/store/apps/details?id=com.bosala.bosala" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+ 
+<hr>
+ 
