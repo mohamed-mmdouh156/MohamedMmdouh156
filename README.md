@@ -9,8 +9,8 @@
 
 <h2> Contact with me on </h2>
 
-- business email : mohamed.mmdouh.dev@gmail.com
-- personal email : mmdouh1112@gmail.com
+- business email : m.mamdouh@darwinz.ai
+- personal email : mohamed.mmdouh.dev@gmail.com
 
 
 <p><a href="http://Wa.me/201123780390" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=100013281158897" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohamed-mmdouh-32492a1a1/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
