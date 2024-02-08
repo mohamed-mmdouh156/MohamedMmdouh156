@@ -27,12 +27,13 @@
 
 <h2> Samples from my projects </h2>
 
+
 ### Flexcards
 With Flexcards, you can easily create, sell & redeem gift cards across all your physical stores and online channels seamlessly. 
 Flexcards help your business boost its sales by introducing new revenue channels & enhancing sales operations in existing ones!
 
-Website Link:  https://demo.flexcards.darwinz.ai/
-WebApp Link:  https://flexcards.darwinz.ai/#/auth
+<h2>Website Link:  https://demo.flexcards.darwinz.ai/ <\h2>
+<h2>WebApp Link:  https://flexcards.darwinz.ai/#/auth</h2>
  
 <hr>
 
