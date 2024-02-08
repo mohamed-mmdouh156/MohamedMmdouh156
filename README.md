@@ -27,6 +27,13 @@
 
 <h2> Samples from my projects </h2>
 
+### Flexcards
+Unlock the full potential of your hospitality, business with our innovative digital menu and online ordering solutions.
+
+Website Link: https://demo.flexmenus.darwinz.ai/
+ 
+<hr>
+
 
 ### Receety
 Help save the environment with Receety by getting digital receipts instead of paper ones from our Receety-enabled vendors. Keep all your receipts in one place to stay on top of your spending and to receive exclusive offers from your favorite places!
@@ -36,15 +43,7 @@ Help save the environment with Receety by getting digital receipts instead of pa
 <hr>
 
  ### WFI وفى
-WFI is one of the services of Watan First Human Resources Company, which is interested in the 
-continuous development of Providing labors services by ensuring the selection and training of 
-labors to be more skilled, proficient, and able to meet our customer’s needs, by providing domestic 
-labors that is committed to the highest standards. Quality as well as adherence to the laws and 
-regulations related to this sector, and for our desire to provide a unique customer’s experience, we 
-wanted our start to be with you, through application (WFI) to facilitate contracting with trained 
-domestic workers of all nationalities and professions that have been carefully selected to be in line 
-with the needs of society in our beloved Kingdom, and you can choose various and different services 
-and Packages of domestic labors that suits your needs through the application easily.
+WFI is one of the services of Watan First Human Resources Company, which is interested in the continuous development of Providing labor services by ensuring the selection and training of laborers to be more skilled, proficient, and able to meet our customer’s needs, by providing domestic labors that is committed to the highest standards. Quality as well as adherence to the laws and regulations related to this sector, and for our desire to provide a unique customer’s experience, we wanted our start to be with you, through application (WFI) to facilitate contracting with trained domestic workers of all nationalities and professions that have been carefully selected to be in line with the needs of society in our beloved Kingdom. You can choose various and different services and Packages of domestic labors that suits your needs through the application easily.
 
 <p><a href="https://play.google.com/store/apps/details?id=watan.app.wfi" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/eg/app/wfi-%D9%88%D9%81%D9%8A/id6443803109" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
