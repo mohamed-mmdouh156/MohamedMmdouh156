@@ -27,11 +27,21 @@
 
 <h2> Samples from my projects </h2>
 
-
 ### Flexcards
-Unlock the full potential of your hospitality, business with our innovative digital menu and online ordering solutions.
+With Flexcards, you can easily create, sell & redeem gift cards across all your physical stores and online channels seamlessly. 
+Flexcards help your business boost its sales by introducing new revenue channels & enhancing sales operations in existing ones!
 
-Website Link: https://demo.flexmenus.darwinz.ai/
+Website Link:  https://demo.flexcards.darwinz.ai/
+WebApp Link:  https://flexcards.darwinz.ai/#/auth
+ 
+<hr>
+
+
+### Flexmenus
+Unlock the full potential of your hospitality, business with our innovative digital menu and online ordering solutions.
+Get the data and analytics you need to optimize your menu engineering process and maximize your profitability.
+
+Website Link:  https://demo.flexmenus.darwinz.ai/
  
 <hr>
 
