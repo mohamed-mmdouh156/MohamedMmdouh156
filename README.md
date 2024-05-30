@@ -28,6 +28,15 @@
 <h2> Samples from my projects </h2>
 
 
+### didaGPT©
+Your Restaurant's Data, a Text Away,
+Innovating Restaurant Management with didaGPT© 
+Introducing didaGPT, a conversational AI feature within the dida© ecosystem, designed to empower restaurant owners with instant access to a wide range of insights and data. 
+didaGPT© trains on your restaurant's unique data and real performance daily so that its suggestions are truly built for your restaurant! Simply text your query and let didaGPT provide detailed, AI-driven responses.
+
+<p><a href="https://play.google.com/store/apps/details?id=darwinz.ai.didagpt3" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/us/app/didagpt/id6477492861" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+
 ### Flexcards
 With Flexcards, you can easily create, sell & redeem gift cards across all your physical stores and online channels seamlessly. 
 Flexcards help your business boost its sales by introducing new revenue channels & enhancing sales operations in existing ones!
