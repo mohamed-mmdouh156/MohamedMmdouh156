@@ -43,7 +43,7 @@ Flexcards help your business boost its sales by introducing new revenue channels
 
 ### Website Link:  https://demo.flexcards.darwinz.ai/
 ### WebApp Link:  https://flexcards.darwinz.ai/#/auth
-<p><a href="https://play.google.com/store/apps/details?id=darwinz.ai.flexcardwallet" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://play.google.com/store/apps/details?id=darwinz.ai.flexcard" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
  
 <hr>
 
